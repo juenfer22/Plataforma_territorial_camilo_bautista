@@ -1,0 +1,47 @@
+[
+    {
+        "zone_score_id": "a9f1cde1-89cc-4f62-8cfe-5c86e8d3f6bd",
+        "score_execution_id": "9fca1fcb-04ef-4cec-9d0c-3055377a8b9f",
+        "zone_code": "Z001",
+        "zone_name": "Zona Centro",
+        "score_value": 0.75,
+        "rank_position": 2,
+        "score_level": "media oportunidad"
+    },
+    {
+        "zone_score_id": "6bc06f58-a47a-4a3b-881b-6d8be3a50bc9",
+        "score_execution_id": "9fca1fcb-04ef-4cec-9d0c-3055377a8b9f",
+        "zone_code": "Z002",
+        "zone_name": "Zona Norte",
+        "score_value": 0.525,
+        "rank_position": 3,
+        "score_level": "baja oportunidad"
+    },
+    {
+        "zone_score_id": "3769b71a-cf48-4376-814a-6d1caade7a19",
+        "score_execution_id": "9fca1fcb-04ef-4cec-9d0c-3055377a8b9f",
+        "zone_code": "Z003",
+        "zone_name": "Zona Sur",
+        "score_value": 0.325,
+        "rank_position": 4,
+        "score_level": "sin oportunidad"
+    },
+    {
+        "zone_score_id": "c2adcf02-3b33-43ca-8dac-6b51e6125e24",
+        "score_execution_id": "9fca1fcb-04ef-4cec-9d0c-3055377a8b9f",
+        "zone_code": "Z004",
+        "zone_name": "Zona Occidente",
+        "score_value": 0.8575,
+        "rank_position": 1,
+        "score_level": "alta oportunidad"
+    },
+    {
+        "zone_score_id": "33b88a64-03d7-4763-b66e-35f42c198d69",
+        "score_execution_id": "4465eff9-8d94-4b60-a9f0-d39aa854e127",
+        "zone_code": "Z001",
+        "zone_name": "Zona Centro",
+        "score_value": 0.75,
+        "rank_position": 1,
+        "score_level": "media oportunidad"
+    }
+]
