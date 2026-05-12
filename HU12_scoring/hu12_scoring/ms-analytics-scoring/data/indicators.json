@@ -1,0 +1,62 @@
+[
+    {
+        "indicator_id": "e984ca7b-dad4-4699-bb3d-23c1bacc8bfd",
+        "zone_code": "Z001",
+        "zone_name": "Zona Centro",
+        "transformation_run_id": "run-001",
+        "population_indicator": 0.85,
+        "income_indicator": 0.78,
+        "education_indicator": 0.72,
+        "competition_indicator": 0.65,
+        "composite_indicator_json": {},
+        "calculated_at": "2026-04-15T21:00:05.680736"
+    },
+    {
+        "indicator_id": "a940d47d-32bb-422f-9f2e-6da1bbb804f3",
+        "zone_code": "Z002",
+        "zone_name": "Zona Norte",
+        "transformation_run_id": "run-001",
+        "population_indicator": 0.6,
+        "income_indicator": 0.55,
+        "education_indicator": 0.5,
+        "competition_indicator": 0.45,
+        "composite_indicator_json": {},
+        "calculated_at": "2026-04-15T21:00:05.682984"
+    },
+    {
+        "indicator_id": "644f9fbe-725e-4b04-87a4-ea9b2ab64aa4",
+        "zone_code": "Z003",
+        "zone_name": "Zona Sur",
+        "transformation_run_id": "run-001",
+        "population_indicator": 0.4,
+        "income_indicator": 0.35,
+        "education_indicator": 0.3,
+        "competition_indicator": 0.25,
+        "composite_indicator_json": {},
+        "calculated_at": "2026-04-15T21:00:05.685447"
+    },
+    {
+        "indicator_id": "4743b6a1-fecd-4e62-8006-63e4dbfdb2d2",
+        "zone_code": "Z004",
+        "zone_name": "Zona Occidente",
+        "transformation_run_id": "run-001",
+        "population_indicator": 0.9,
+        "income_indicator": 0.88,
+        "education_indicator": 0.85,
+        "competition_indicator": 0.8,
+        "composite_indicator_json": {},
+        "calculated_at": "2026-04-15T21:00:05.687954"
+    },
+    {
+        "indicator_id": "102fe2cc-539f-4eae-8a87-2eba74b236fa",
+        "zone_code": "Z001",
+        "zone_name": "Zona Centro",
+        "transformation_run_id": "run-001",
+        "population_indicator": 0.85,
+        "income_indicator": 0.78,
+        "education_indicator": 0.72,
+        "competition_indicator": 0.65,
+        "composite_indicator_json": {},
+        "calculated_at": "2026-04-23T20:35:22.582754"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "execution_id": "9fca1fcb-04ef-4cec-9d0c-3055377a8b9f",
+        "transformation_run_id": "run-001",
+        "configuration_id": "cfg-001",
+        "formula_version": "1.0.0",
+        "status": "completed",
+        "executed_at": "2026-04-15T21:00:05.679495"
+    },
+    {
+        "execution_id": "4465eff9-8d94-4b60-a9f0-d39aa854e127",
+        "transformation_run_id": "run-001",
+        "configuration_id": "cfg-001",
+        "formula_version": "1.0.0",
+        "status": "completed",
+        "executed_at": "2026-04-23T20:35:22.581045"
+    }
+]
